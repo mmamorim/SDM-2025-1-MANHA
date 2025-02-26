@@ -31,6 +31,13 @@ while(qtdePalitosJog > 0 && qtdePalitosComp > 0) {
     qtdeChuteComp = calculaPalpiteDoComputador()
 
     let soma = qtdeEscolhaJog + qtdeEscolhaComp
+
+    let status = nomeJog+" chutou "+qtdeChuteJog+"\n" 
+    status = status + nomeComp+" chutou "+qtdeChuteComp+"\n"
+    status = status + nomeJog+" separou "+qtdeEscolhaJog+"\n"
+    status = status + nomeComp+" separou "+qtdeEscolhaComp+"\n"
+    alert(status)
+
     if(qtdeChuteJog == soma) {
         alert("Ganhou o "+nomeJog)
         qtdePalitosJog--
