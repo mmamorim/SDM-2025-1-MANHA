@@ -1,5 +1,21 @@
 # Aula 02 (26/02) 
 
+### Antes de começarmos com o NodeJS ....Vamos brincar um pouco...
+
+#### Jogo dos palitinhos
+
+O jogo dos palitinhos de boteco, é uma brincadeira simples e democrática que pode ser jogada com poucos palitos e duas pessoas. 
+
+#### Como jogar 
+
+- Cada participante recebe três palitos
+- Escolhem quantos palitos vão colocar na mão
+- Deixam a mão fechada sobre a mesa
+- O primeiro jogador dá um palpite da soma de todos os palitos
+- Todos abrem a mão e os palitos são conferidos
+- Quem acertar o palpite ou chegar mais próximo leva o brinde
+  
+
 <img align="right" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="140px;"/>
 
 ## NodeJS
@@ -106,17 +122,4 @@ Depois de exportar alguns recursos do seu módulo, é necessário importá-los p
 import { name, draw } from "./arquivo.js";
 ~~~
 
-### Vamos brincar um pouco...
 
-#### Jogo dos palitinhos
-
-O jogo dos palitinhos de boteco, é uma brincadeira simples e democrática que pode ser jogada com poucos palitos e duas pessoas. 
-
-#### Como jogar 
-
-- Cada participante recebe três palitos
-- Escolhem quantos palitos vão colocar na mão
-- Deixam a mão fechada sobre a mesa
-- O primeiro jogador dá um palpite da soma de todos os palitos
-- Todos abrem a mão e os palitos são conferidos
-- Quem acertar o palpite ou chegar mais próximo leva o brinde
