@@ -1,6 +1,8 @@
 # Aula 02 (26/02) 
 
-### Antes de começarmos com o NodeJS ....Vamos brincar um pouco...
+### Antes de começarmos com o NodeJS ....Vamos brincar um pouco com Javascript...
+
+referências: [W3Schols](https://www.w3schools.com/js/default.asp) [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 #### Jogo dos palitinhos
 
