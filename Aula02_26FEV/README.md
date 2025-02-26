@@ -16,7 +16,15 @@ O jogo dos palitinhos de boteco, é uma brincadeira simples e democrática que p
 - O primeiro jogador dá um palpite da soma de todos os palitos
 - Todos abrem a mão e os palitos são conferidos
 - Quem acertar o palpite ou chegar mais próximo leva o brinde
-  
+
+
+## O que aprendemos?
+
+- ```console.log()```
+- ```alert()```
+- ```prompt()```
+- ```parseInt()```
+
 
 <img align="right" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="140px;"/>
 
