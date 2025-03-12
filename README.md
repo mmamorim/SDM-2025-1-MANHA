@@ -5,6 +5,9 @@
 
 * **[Aula 01](./Aula01_19FEV/)** (19/02) - Apresentação da UC / Javascript
 * **[Aula 02](./Aula02_26FEV/)** (26/02) 
+  - Jogo dos palitinhos 
+* **CARNAVAL** (05/03) 
+* **[Aula 03](./Aula03_12Mar/)** (12/03) 
   - Conhecendo o NodeJS / npm 
   - JSON
   - Modularização (import/export) 
