@@ -8,6 +8,4 @@
   - Jogo dos palitinhos 
 * **CARNAVAL** (05/03) 
 * **[Aula 03](./Aula03_12Mar/)** (12/03) 
-  - Conhecendo o NodeJS / npm 
-  - JSON
   - Modularização (import/export) 
