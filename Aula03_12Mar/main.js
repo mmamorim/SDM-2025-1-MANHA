@@ -1,4 +1,5 @@
 import { PI, calculaAreaCirculo, calculaCompCirculo } from "./circulos.js"
+import { createFakeUser } from "./fakeUsers.js"
 import { newUser } from "./users.js"
 
 console.log("Alo mundo!")
@@ -10,7 +11,7 @@ let comp = calculaCompCirculo(5)
 console.log("O comprimento é: "+comp)
 
 let user = newUser("Ana","Alface")
-let user2 = newUser("Bia","Beterraba")
+let fuser = createFakeUser()
 
 console.log("a variável user contém: ",user);
-console.log("a variável user2 contém: ",user2);
+console.log("a variável fuser contém: ",fuser);
