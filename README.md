@@ -9,3 +9,6 @@
 * **CARNAVAL** (05/03) 
 * **[Aula 03](./Aula03_12Mar/)** (12/03) 
   - Modularização (import/export) 
+* **[Aula 04](./Aula04_19Mar/)** (11/03) 
+  - Conhecendo o NodeJS / npm 
+  - package.json 
