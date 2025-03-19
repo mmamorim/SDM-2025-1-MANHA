@@ -3,10 +3,19 @@ import readlineSync from "readline-sync"
 import chalk from 'chalk';
 
 let ret = encrypt("oi gente tudo bem?")
-
 console.log("saida: ",ret);
 
-let nome = readlineSync.question('Digite seu nome:');
-console.log('Oi ' + nome + '! Tudo bem com vc?');
+let contagem = 0
+let x = 
 
-console.log(chalk.red('Hello world!'));
+let algo = function(nome) {
+    console.log('Oi ' + chalk.red(nome) + '! Tudo bem com vc?');
+}
+
+setInterval(function() {
+    contagem++
+    console.log(contagem);
+},1000)
+
+//let nome = readlineSync.question('Digite seu nome:');
+//bomdia(nome)
