@@ -12,4 +12,4 @@
 * **[Aula 04](./Aula04_19Mar/)** (11/03) 
   - Conhecendo o NodeJS / npm 
   - package.json 
-> Aula05 (26/03) Tech Week IX [link](https://animatechweek.com.br/)
+* **Aula05** (26/03) Tech Week IX [link](https://animatechweek.com.br/)
