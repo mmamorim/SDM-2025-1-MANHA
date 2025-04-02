@@ -13,3 +13,6 @@
   - Conhecendo o NodeJS / npm 
   - package.json 
 * **Aula05** (26/03) Tech Week IX [link](https://animatechweek.com.br/)
+* **[Aula 06](./Aula06_02Abr//)** (02/04) 
+  - HTTP
+  - API's
