@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Aula 06</h1>
+    
+    <script>
+        
+        let url = "https://geek-jokes.sameerkumar.website/api?format=json"
+        let promessa = fetch(url)
+        console.log("promessa: ",promessa);
+        
+        promessa.then((resp) => {
+            let prom = resp.json()
+            console.log("devolveu: ",prom);
+            prom.then((obj) => {
+                console.log("obj: ",obj);                
+            })
+        })
+        
+        async function fazRequisicao() {
+            let resp = await fetch(url)
+            let obj = await resp.json()
+            console.log("obj: ",obj);
+        }
+
+        fazRequisicao()
+        fazRequisicao()
+        fazRequisicao()
+        console.log("oi gente");
+        console.log("oi gente");
+        
+
+    </script>
+</body>
+</html>
