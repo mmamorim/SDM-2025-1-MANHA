@@ -1,0 +1,21 @@
+{
+  "frutas": {
+    "limao": {
+      "id": "limao",
+      "nome": "Limão",
+      "cor": "Verde"
+    },
+    "laranja": {
+      "id": "laranja",
+      "nome": "Laranja",
+      "cor": "Amarela"
+    }
+  },
+  "verduras": {
+    "alface": {
+      "id": "alface",
+      "nome": "Alface",
+      "cor": "Verde"
+    }
+  }
+}
