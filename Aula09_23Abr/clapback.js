@@ -66,6 +66,7 @@ const cb = {
     get(path) {
         let value = parserGet(cb.db.data, path)
         //console.log('value', value);
+        return value
     },
 
     async set(path, elem) {
