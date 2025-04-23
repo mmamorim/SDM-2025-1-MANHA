@@ -21,3 +21,6 @@
   - Testando a API com EchoAPI
 * **[Aula 08](./Aula08_16Abr/)** (16/04)  Aula Busca Ativa
   - [Atividade](./Aula08_16Abr)
+* **[Aula 09](./Aula09_23Abr//)** (23/04) 
+  - Criando servidor (API) com o Express
+  - Testando a API com EchoAPI
