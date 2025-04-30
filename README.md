@@ -23,4 +23,5 @@
   - [Atividade](./Aula08_16Abr)
 * **[Aula 09](./Aula09_23Abr//)** (23/04) 
   - Criando servidor (API) com o Express
-  - Testando a API com EchoAPI
+* **[Aula 10](./Aula10_30Abr//)** (30/04) 
+  - Rotas GET, POST, PUT, DELETE
