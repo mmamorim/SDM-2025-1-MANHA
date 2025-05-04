@@ -27,5 +27,19 @@
       "nome": "Alface",
       "cor": "Verde"
     }
+  },
+  "herois": {
+    "superman": {
+      "id": "superman",
+      "nome": "Superman",
+      "nomeReal": "Clark Kent",
+      "frutasPrediletas": [ "limao", "laranja" ]
+    },
+    "heman": {
+      "id": "heman",
+      "nome": "He-man",
+      "nomeReal": "Principe Adam"
+    }
+
   }
 }
