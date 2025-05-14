@@ -25,6 +25,7 @@
   - Criando servidor (API) com o Express
 * **[Aula 10](./Aula10_30Abr//)** (30/04) 
   - Rotas GET, POST, PUT, DELETE
-
 #### **[AVALIAÇÃO A1](./resumoA1/)** (07/05) 
   - [RESUMO](./resumoA1/) PARA ESTUDO
+* **[Aula 11](./Aula11_14Mai//)** (14/05) 
+  - Controladores de rotas e documentação
