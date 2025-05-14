@@ -1,0 +1,24 @@
+{
+  "frutas": {
+    "uva": {
+      "id": "uva",
+      "nome": "Uva",
+      "cor": "roxa"
+    },
+    "morango": {
+      "id": "morango",
+      "nome": "Morango",
+      "cor": "roxa"
+    },
+    "banana": {
+      "id": "banana",
+      "nome": "Banana",
+      "cor": "Amarela"
+    },
+    "FRUTA-ylsPy": {
+      "id": "FRUTA-ylsPy",
+      "nome": "Manga",
+      "cor": "Rosa"
+    }
+  }
+}
