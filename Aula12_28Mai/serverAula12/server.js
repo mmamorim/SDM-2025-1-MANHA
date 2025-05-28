@@ -1,6 +1,9 @@
 import { server, db, PORT } from "./initServer.js"
 import rotasFrutas from "./rotasFrutas.js";
 import rotasUsuarios from "./rotasUsuarios.js";
+import auth from "./auth.js"
+
+let middleware = auth(server, db)
 
 server.get('/', (req, res) => {
     res.send('🙋‍♂️ Hello...route /');

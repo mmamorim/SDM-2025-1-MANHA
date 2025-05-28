@@ -50,6 +50,13 @@
       "login": "ana",
       "senha": "12345",
       "email": "ana@ana.com"
+    },
+    "USER-jv_z2": {
+      "id": "USER-jv_z2",
+      "nome": "Rui",
+      "login": "rui",
+      "senha": "c3a7ba98c7abcfc7319f3fe3564e3116eb106fcd6f85f7fcbb0d84cbba548da5Ts/8jZecmbssq0orxHTwmg==e7b8cf03d752e7bcc079b1af1d86e6f20df47a2142366f69667951e9ea09b9cb",
+      "email": "rui@rui.com"
     }
   }
 }

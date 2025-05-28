@@ -1,3 +1,8 @@
+import { SimpleCrypto } from "simple-crypto-js"
+import * as dotenv from 'dotenv'
+dotenv.config()
+
+const SECRET = process.env.SECRET
 
 export default function rotasUsuarios(server, db) {
 
@@ -9,6 +14,8 @@ export default function rotasUsuarios(server, db) {
     server.post('/usuarios', (req, res) => {
         let id = db.newID("USER-")
         let data = { id, ...req.body }
+        const simpleCrypto = new SimpleCrypto(SECRET)
+        data.senha = simpleCrypto.encrypt(data.senha)
         db.set("/usuarios/"+data.id, data)
         res.status(201).json({ msg: "Inserção ok.", data })
     });
