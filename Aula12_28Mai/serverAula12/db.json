@@ -1,0 +1,48 @@
+{
+  "frutas": {
+    "uva": {
+      "id": "uva",
+      "nome": "Uva",
+      "cor": "roxa",
+      "usersLike": {
+        "USER-XPEcu": "USER-XPEcu",
+        "USER-hkjDY": "USER-hkjDY"
+      }
+    },
+    "morango": {
+      "id": "morango",
+      "nome": "Morango",
+      "cor": "roxa"
+    },
+    "banana": {
+      "id": "banana",
+      "nome": "Banana",
+      "cor": "Amarela"
+    },
+    "FRUTA-ylsPy": {
+      "id": "FRUTA-ylsPy",
+      "nome": "Manga",
+      "cor": "Rosa"
+    }
+  },
+  "usuarios": {
+    "USER-XPEcu": {
+      "id": "USER-XPEcu",
+      "nome": "Ana",
+      "login": "ana",
+      "senha": "12345",
+      "email": "ana@ana.com",
+      "frutasPreferidas": {
+        "uva": "uva",
+        "morango": "morango"
+      }
+    },
+    "USER-hkjDY": {
+      "id": "USER-hkjDY",
+      "nome": "Bia",
+      "login": "bia",
+      "senha": "12345",
+      "email": "bia@bia.com"
+    }
+  }
+}

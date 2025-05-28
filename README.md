@@ -16,16 +16,18 @@
 * **[Aula 06](./Aula06_02Abr//)** (02/04) 
   - HTTP
   - API's
-* **[Aula 07](./Aula07_09Abr//)** (09/04) 
+* **[Aula 07](./Aula07_09Abr/)** (09/04) 
   - Criando servidor (API) com o Express
   - Testando a API com EchoAPI
 * **[Aula 08](./Aula08_16Abr/)** (16/04)  Aula Busca Ativa
   - [Atividade](./Aula08_16Abr)
-* **[Aula 09](./Aula09_23Abr//)** (23/04) 
+* **[Aula 09](./Aula09_23Abr/)** (23/04) 
   - Criando servidor (API) com o Express
-* **[Aula 10](./Aula10_30Abr//)** (30/04) 
+* **[Aula 10](./Aula10_30Abr/)** (30/04) 
   - Rotas GET, POST, PUT, DELETE
 #### **[AVALIAÇÃO A1](./resumoA1/)** (07/05) 
   - [RESUMO](./resumoA1/) PARA ESTUDO
-* **[Aula 11](./Aula11_14Mai//)** (14/05) 
+* **[Aula 11](./Aula11_14Mai/)** (14/05) 
   - Controladores de rotas e documentação
+* **[Aula 12](./Aula12_28Mai/)** (28/05) 
+  - Autorização e Autenticação
