@@ -43,6 +43,13 @@
       "login": "bia",
       "senha": "12345",
       "email": "bia@bia.com"
+    },
+    "USER-XISGk": {
+      "id": "USER-XISGk",
+      "nome": "Ana",
+      "login": "ana",
+      "senha": "12345",
+      "email": "ana@ana.com"
     }
   }
 }
