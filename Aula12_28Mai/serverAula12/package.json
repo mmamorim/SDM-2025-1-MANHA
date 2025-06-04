@@ -25,6 +25,7 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "simple-crypto-js": "^3.0.1"
+    "simple-crypto-js": "^3.0.1",
+    "swagger-ui-express": "^5.0.1"
   }
 }

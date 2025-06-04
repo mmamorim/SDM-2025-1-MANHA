@@ -34,6 +34,7 @@ export default function auth(server, db) {
                     if (pass_decrypted == senha) {
                         let token = getToken(email)
                         res.status(200).json({ msg: "token generated", token })
+                        return
                     }
                 }
             }
